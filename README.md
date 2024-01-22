@@ -1,10 +1,8 @@
 # CRUD-app-with-JSON-file
-Curl Commands to fetch the data
+Application to manage accounts 
 
-==================================================================================================================
-==========================
 List Account
-==========================
+
 **Request**
 curl --location 'http://localhost:3000/account/list'
 
